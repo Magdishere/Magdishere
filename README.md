@@ -20,7 +20,7 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align="center" dir="auto">
     <img
       src="https://github-readme-stats.vercel.app/api?username=Magdishere&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
       alt="Magdishere" />
