@@ -11,11 +11,10 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<div style="border-radius: 50%; overflow: hidden; display: inline-block;">
-  <a href="https://www.linkedin.com/in/magd-k-el-zalameh-233701275/" rel="nofollow">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=000000&logoColor=0077B5&labelColor=&style=for-the-badge&logoWidth=35&logoHeight=35" alt="linkedin logo" style="max-width: 100%;">
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/magd-k-el-zalameh-233701275/" rel="nofollow">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Magd K. El-Zalameh" height="30" width="40" style="max-width: 100%;">
+</a>
+
 
 
 <br>
