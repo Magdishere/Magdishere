@@ -1,29 +1,48 @@
-<h1 align="center">Hi there, I'm Magd El Zalameh 👋</h1>
-<h3 align="center">Backend Developer 🌟</h3>
+![Magd K. El-Zalameh Banner](https://raw.githubusercontent.com/Magdishere/Magdishere/main/assets/Magd%20K.%20El-Zalameh%20Banner.jpg)
 
-<br>
-<p><img align="right" src="[Your Animated GIF URL]" alt="Magdishere" /></p>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Magd K. El-Zalameh</h2>
 
-- 🌱 I’m currently learning Api Development
+<!-- ## 👋 &nbsp;Hey there! I'm Magd K. El-Zalameh -->
 
-- 📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=magdelzalameh6@gmail.com" rel="nofollow">magdelzalameh6@gmail.com</a>
+### 👨🏻‍💻 &nbsp;About Me
 
-<br>
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying [Your University/Institution Name].\
+🌱 &nbsp;I'm on track for learning more about [Your Interests].\
+✍️ &nbsp;In my free time, I pursue [Your Hobbies/Side Hustles].\
+💬 &nbsp;Feel free to reach out to me for [Your Areas of Expertise] or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at [Your Email Address]! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.yourwebsite.com/resume.html) for more details about me. I'm open to feedback and suggestions.
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/magd-k-el-zalameh-233701275/" rel="nofollow">
-  <img src="https://img.shields.io/badge/-Magd%20K.%20El-Zalameh-0077B5?style=flat&logo=Linkedin&logoColor=white" style="max-width: 100%;">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/Magdishere/Magdishere/main/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+[Add more technologies here]
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Magdishere">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Magdishere&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Magdishere&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
-<br>
+### 🤝🏻 &nbsp;Connect with Me
 
-<div align="center" dir="auto">
-<div>
-<div>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/username"><img src="https://github-readme-stats.vercel.app/api?username=Magdishere&amp;hide=contribs,prs" height="150" alt="stats graph" style="max-width: 100%;"></a>
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/username"><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;username=Magdishere" height="150" alt="languages graph" style="max-width: 100%;"></a>
-</div>
+<p align="center">
+<a href="https://www.yourwebsite.com"><img src="https://img.shields.io/badge/-yourwebsite.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Magdishere"><img src="https://img.shields.io/badge/-Magd%20K.%20El-Zalameh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/-@yourinstagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/yourfacebook"><img src="https://img.shields.io/badge/-@yourfacebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/yourpinterest"><img src="https://img.shields.io/badge/-@yourpinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/yourbehance"><img src="https://img.shields.io/badge/-@yourbehance-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
 
+-----
+Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-<br>
-Magdishere: https://github.com/Magdishere
+Last Edited on: [Your Last Edit Date]
