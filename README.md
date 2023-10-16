@@ -10,7 +10,7 @@
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![Ajax](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=ajax)&nbsp;
@@ -31,10 +31,10 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="mailto:magdelzalameh6@gmail.com"><img src="https://img.shields.io/badge/-magdelzalameh6@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/magd-k-el-zalameh-233701275/"><img src="https://img.shields.io/badge/-magd-k-el-zalameh-233701275-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-
+    &nbsp; <a href="https://www.linkedin.com/in/magd-k-el-zalameh-233701275/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+    &nbsp; <a href="mailto:magdelzalameh6@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
+
 
 -----
 Magdishere: https://github.com/Magdishere
