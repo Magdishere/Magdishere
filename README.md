@@ -1,4 +1,3 @@
-![Magd K. El-Zalameh Banner](https://raw.githubusercontent.com/Magdishere/Magdishere/main/assets/Magd%20K.%20El-Zalameh%20Banner.jpg)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Magd K. El-Zalameh</h2>
 
@@ -9,8 +8,16 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm currently learning about API Development.\
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-[Add more technologies here]
+![PHP](https://img.shields.io/badge/-Python-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Python-05122A?style=flat&logo=laravel)&nbsp;
+![HTML](https://img.shields.io/badge/-Python-05122A?style=flat&logo=html)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
+![Ajax](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=ajax)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
