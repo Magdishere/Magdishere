@@ -8,9 +8,9 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🌱 &nbsp;I'm currently learning about API Development.\
 
-![PHP](https://img.shields.io/badge/-Python-05122A?style=flat&logo=php)&nbsp;
-![Laravel](https://img.shields.io/badge/-Python-05122A?style=flat&logo=laravel)&nbsp;
-![HTML](https://img.shields.io/badge/-Python-05122A?style=flat&logo=html)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)&nbsp;
 ![Ajax](https://img.shields.io/badge/-Ajax-05122A?style=flat&logo=ajax)&nbsp;
@@ -32,7 +32,7 @@
 
 <p align="center">
 <a href="https://www.yourwebsite.com"><img src="https://img.shields.io/badge/-yourwebsite.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/Magdishere"><img src="https://img.shields.io/badge/-Magd%20K.%20El-Zalameh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/Magdishere"><img src="https://img.shields.io/badge/-Magd%20K.%20El-Zalameh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/-@yourinstagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/yourfacebook"><img src="https://img.shields.io/badge/-@yourfacebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
@@ -41,6 +41,5 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+Magdishere: https://github.com/Magdishere
 
-Last Edited on: [Your Last Edit Date]
