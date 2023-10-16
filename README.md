@@ -20,18 +20,15 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="[Your LinkedIn URL]" target="blank">
-    <img align="center" src="[LinkedIn Icon URL]" alt="Your Name" height="30" width="40" />
-  </a>
-  <!-- Add more social media links as needed -->
-</p>
+<p>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=Magdishere&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="Magdishere" />
 
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Add icons and links to the programming languages and tools you use -->
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Magdishere&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Magdishere" 
+    bg_color="#808080"/>
 </p>
 
 <br>
