@@ -7,16 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying [Your University/Institution Name].\
-🌱 &nbsp;I'm on track for learning more about [Your Interests].\
-✍️ &nbsp;In my free time, I pursue [Your Hobbies/Side Hustles].\
-💬 &nbsp;Feel free to reach out to me for [Your Areas of Expertise] or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at [Your Email Address]! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.yourwebsite.com/resume.html) for more details about me. I'm open to feedback and suggestions.
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Magdishere/Magdishere/main/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
+🌱 &nbsp;I'm currently learning about API Development.\
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 [Add more technologies here]
