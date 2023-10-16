@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/-Magd%20K.%20El-Zalameh-0077B5?style=flat&logo=Linkedin&logoColor=white" style="max-width: 100%;">
 </a>
 
-
-
-
-
 <br>
 
 <div align="center" dir="auto">
