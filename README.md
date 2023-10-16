@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">Student at [Your University] 🌟</h3>
+<h1 align="center">Hi there, I'm Magd El Zalameh 👋</h1>
+<h3 align="center">Backend Developer 🌟</h3>
 
 <br>
 
@@ -13,11 +13,9 @@
 
 <p><img align="right" src="[Your Animated GIF URL]" alt="Magdishere" /></p>
 
-- 🌱 I’m currently learning [What you're learning]
+- 🌱 I’m currently learning Api Development
 
-- 📫 How to reach me **[Your Email]**
-
-- ⚡ Fun fact: [Your Fun Fact]
+- 📫 How to reach me: <a href="https://mail.google.com/mail/?view=cm&fs=1&to=magdelzalameh6@gmail.com" rel="nofollow">magdelzalameh6@gmail.com</a>
 
 <br>
 
@@ -39,23 +37,15 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
+<p>
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=Magdishere&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="Magdishere" />
+
+  <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Magdishere&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Magdishere" 
     bg_color="#808080"/>
 </p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Magdishere&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Magdishere" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Magdishere&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Magdishere" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank">
-  <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-</a> </p>
 
 [Magdishere](https://github.com/Magdishere)
