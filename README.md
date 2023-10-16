@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Magdishere&amp;hide=contribs,prs" height="150" alt="stats graph" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Magdishere&amp;hide=contribs,prs" style="max-width: 100%;">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;username=Magdishere" height="150" alt="languages graph" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&amp;hide_title=false&amp;layout=compact&amp;card_width=320&amp;langs_count=5&amp;theme=dracula&amp;hide_border=false&amp;username=Magdishere" style="max-width: 100%;">
+
+
