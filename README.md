@@ -31,12 +31,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.yourwebsite.com"><img src="https://img.shields.io/badge/-yourwebsite.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:magdelzalameh6@gmail.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/-@yourinstagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/yourfacebook"><img src="https://img.shields.io/badge/-@yourfacebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/yourpinterest"><img src="https://img.shields.io/badge/-@yourpinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/yourbehance"><img src="https://img.shields.io/badge/-@yourbehance-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="mailto:magdelzalameh6@gmail.com"><img src="https://img.shields.io/badge/-magdelzalameh6@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/magd-k-el-zalameh-233701275/"><img src="https://img.shields.io/badge/-magd-k-el-zalameh-233701275-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
 </p>
 
 -----
