@@ -32,9 +32,6 @@
 
 <p align="center">
 <a href="https://www.yourwebsite.com"><img src="https://img.shields.io/badge/-yourwebsite.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/magd-k-el-zalameh-233701275/" target="_blank" rel="nofollow">
-    <img src="https://img.shields.io/badge/-Magd%20K.%20El-Zalameh-0077B5?style=flat&logo=Linkedin&logoColor=white" style="max-width: 100%;" />
-</a>
 <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/-@yourinstagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/yourfacebook"><img src="https://img.shields.io/badge/-@yourfacebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
