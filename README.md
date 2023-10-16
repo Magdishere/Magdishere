@@ -5,8 +5,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm currently learning about API Development.\
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+🌱 &nbsp;I'm currently learning about API Development.
 
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
@@ -32,7 +32,7 @@
 
 <p align="center">
 <a href="https://www.yourwebsite.com"><img src="https://img.shields.io/badge/-yourwebsite.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:magdelzalameh6@gmail.com"><img src="https://img.shields.io/badge/-youremail@example.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/-@yourinstagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/yourfacebook"><img src="https://img.shields.io/badge/-@yourfacebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/yourpinterest"><img src="https://img.shields.io/badge/-@yourpinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
