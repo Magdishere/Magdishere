@@ -30,19 +30,5 @@
     alt="Magdishere" 
     bg_color="#808080"/>
 </p>
-
 <br>
-
-<h3>Statistical Data :-</h3>
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=Magdishere&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Magdishere" />
-
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Magdishere&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Magdishere" 
-    bg_color="#808080"/>
-</p>
-
 [Magdishere](https://github.com/Magdishere)
