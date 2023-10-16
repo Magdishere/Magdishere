@@ -2,15 +2,6 @@
 <h3 align="center">Backend Developer 🌟</h3>
 
 <br>
-
-<p align="right">
-  <h3>Profile Views :-</h3> 
-  <img src="https://komarev.com/ghpvc/?username=Magdishere&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Magdishere" /> 
-</p>
-
-<br>
-
 <p><img align="right" src="[Your Animated GIF URL]" alt="Magdishere" /></p>
 
 - 🌱 I’m currently learning Api Development
