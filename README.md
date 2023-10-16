@@ -20,8 +20,7 @@
 <br>
 
 <h3 align="left">Connect with me:</h3>
-<div style="display: flex;">
-  <div style="flex: 50%;">
+<div align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=Magdishere&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
       alt="Magdishere" />
@@ -31,7 +30,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Magdishere&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
       alt="Magdishere" 
       bg_color="#808080"/>
-  </div>
 </div>
 <br>
 [Magdishere](https://github.com/Magdishere)
