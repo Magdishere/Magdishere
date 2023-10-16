@@ -20,4 +20,4 @@
 
 
 <br>
-[Magdishere](https://github.com/Magdishere)
+Magdishere: https://github.com/Magdishere
