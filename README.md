@@ -40,6 +40,8 @@
     &nbsp; <a href="https://www.linkedin.com/in/magd-k-el-zalameh-233701275/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
     &nbsp; <a href="mailto:magdelzalameh6@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
     &nbsp; <a href="https://wa.me/+96176326960" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
+    &nbsp; <a href="https://www.facebook.com/profile.php?id=61550079144274" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>
+    &nbsp; <a href="https://www.instagram.com/magdishere/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram.png" width="50" /></a>
 </p>
 
 
