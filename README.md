@@ -21,6 +21,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)&nbsp;
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=webstorm)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000000?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 
 
